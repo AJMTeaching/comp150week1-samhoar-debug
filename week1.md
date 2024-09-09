@@ -240,12 +240,6 @@ Let's dive into some example functions that demonstrate these operations:
 
 ---
 
-Your current section on lists is comprehensive and well-organized. To continue in the same vein, how about we add some example usage of these functions along with unit tests? This will help students understand not only how these functions work but also how to test their code.
-
-Here's how you can extend the existing text:
-
----
-
 ### Example Usage and Unit Tests:
 As we saw in week 0, understanding how to test your code is crucial in programming. Below are some example usages of the functions we defined, along with some unit tests to ensure they work as expected. In this case, we're using the unittest library which just defines the `assertEqual` function which just checks in the two arguments to the function are the same.
 
