@@ -9,9 +9,13 @@
 5. Reverse the order of the elements in my_list using a method. Print the reversed list.
 
 # Problem 2
+1. Create a dictionary called person with keys 'name', 'age', 'job' and values 'John', 30, 'teacher'.
+2. Print the value corresponding to the 'job' key.
+3. Add a new key-value pair: 'city': 'Paris' to the person dictionary. Print the updated dictionary.
+4. Remove the 'age' key-value pair from person. Print the updated dictionary.
+5. Iterate through the person dictionary and print out each key-value pair on a separate line.
 
-
-# -----------------------------------------------------------------------------
+# ----------------------------------------------------------------------------- 
 
 
 # Importing sys for test function
